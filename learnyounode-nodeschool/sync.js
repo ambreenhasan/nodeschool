@@ -1,4 +1,4 @@
-Synchronous
+// Synchronous
 Gives access to filesystem module
 var fs = require('fs');
 
